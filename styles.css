@@ -33,6 +33,7 @@ h3 {
 }
 .events {
     display: flex;
+      justify-content: space-around;
 }
 body {
     margin: 0;
@@ -42,15 +43,6 @@ body {
     color: #1D3557;
   
 
-}
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-.box {
-  flex: 1 1 300px;
-  padding: 20px;
 }
 .activities {
     padding: 30px;
